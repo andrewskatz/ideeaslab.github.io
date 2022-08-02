@@ -23,7 +23,7 @@ Twitter: @isilanakok <br/>
 [Google Scholar](https://scholar.google.com/citations?user=lEtuHMQAAAAJ&hl=en&oi=ao) <br/>
 [ORCID](https://orcid.org/0000-0002-1572-8024) <br/>
 Personal website: https://isilanakok.github.io/ <br/>
-CV (if you want to include)
+
 
 <br/>
 <br/>
