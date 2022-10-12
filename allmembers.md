@@ -34,7 +34,7 @@ Personal website: https://isilanakok.github.io/ <br/>
 Background: Yasir is currently a PhD candidate in The Department of Engineering Education at Virginia Tech. He has a BSc in Chemical Engineering in 2013 and a Postgraduate Certificate in Education in 2018 from the University of Cape Town in South Africa. He has worked in Control Engineering in the Petrochemical Industry after graduating until 2016 before pursuing a career in education. While studying to be a high school mathematics and physical sciences teacher, Yasir spent a year teaching English in Japan. Upon returning to South Africa Yasir taught high school physical sciences from 2018 to 2021 before joining the engineering education program at Virginia Tech. <br/>
 Research interests: Teaching and Learning, Metacognition, Self-Regulated Learning, Natural Language Processing.<br/>
 Dissertation topic: Self-regulated learning during a first year engineering ill-structured problem solving course. <br/>
-Contact information: yasirg@vt.edu <br/>
+Contact information: yasirg at vt dot edu <br/>
 [Personal website](https://yasirg90.github.io/)
 
 <br/>
@@ -47,7 +47,7 @@ Contact information: yasirg@vt.edu <br/>
 Background: Engineering educator  <br/>
 Research interests: Sustainability, remote teaching and learning, engineering for all <br/>
 Dissertation topic: Students’ interests in pursuing careers in sustainability <br/>
-Contact information: tgriesinger@vt.edu <br/>
+Contact information: tgriesinger at vt dot edu <br/>
 [LinkedIn](https://www.linkedin.com/in/tina-griesinger-109b4429) <br/>
 [ORCID](https://orcid.org/0000-0001-5313-5265) <br/>
 
@@ -60,7 +60,7 @@ Contact information: tgriesinger@vt.edu <br/>
 Background: Before joining ENGE and VT in the fall of 2021, Amanda completed her B.S. in mathematics and computer science with a minor in statistics from UMBC in spring 2021. While at UMBC, she also pursued her interests in education by being part of the Sherman Scholars program. Through this program, she worked in Baltimore City public schools, helping to teach math and computer science to students in grades 5-12.<br/>
 Research interests: Computer science education, pedagogy, curriculum design and development, student experiences (with a focus on introductory courses) <br/>
 Dissertation topic: Undecided <br/>
-Contact information: amandaross@vt.edu <br/>
+Contact information: amandaross at vt dot edu <br/>
 [LinkedIn](https://www.linkedin.com/in/amanda-ross-040993163/)
 
 <br/>
@@ -71,7 +71,7 @@ Contact information: amandaross@vt.edu <br/>
 Background: Lisa is currently pursuing her Ph.D. in Engineering Education at Virginia Tech after working in the aerospace industry for 4+ years with Airbus Americas  <br/> Engineering. She has experience in project management, aircraft upgrades, and process automation as an engineer in airworthiness & certification and retrofit of aircraft cabins in Upgrade Services. Her background includes a B.S. and M.S degree in mechanical engineering with a concentration in aerospace engineering from the University of South Alabama. She aspires to use her connections from industry to bridge the gap between engineering education and industry needs, while helping students in their own personal development to become creative problem-solvers and well-rounded, global engineers. She has teaching and mentoring experience from introductory robotics with elementary students, flight dynamics and mentoring for middle-schoolers, and graduate teaching assistantships for foundations of engineering for first-year students, Global STEM Practice: Leadership and Culture with the Rising Sophomore Abroad Program (RSAP) at VT, and thermal science with senior-level mechanical engineering students. <br/>
 Research interests: academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research  interests continue to evolve and expand). <br/>
 Dissertation topic: In progress <br/>
-Contact information: lisaschib@vt.edu <br/>
+Contact information: lisaschib at vt dot edu <br/>
 Twitter: @lisaschibelius
 [LinkedIn](https://www.linkedin.com/in/lisaschibelius/) <br/>
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=6CNW8WkAAAAJ) <br/>
@@ -92,3 +92,18 @@ Research interests: Equity of educational opportunities regardless of class, gen
 Dissertation topic: NLP and engineering ethics assessment 
 <br/>
 [LinkedIn](www.linkedin.com/in/umair-shakir)
+
+<br/>
+<br/>
+<br/>
+
+## Undergraduate Students
+
+<br/>
+
+### Name: Rachel Inamn
+Background: Rachel is currently pursuing a bachelor's degree in public and urban affairs with a minor in landscape architecture. She is in her first year of the accelerated master's program in urban and regional planning at Virginia Tech. She hopes to work with the federal government as a community planner or transportation analyst with a focus on sustainability and accessibility.
+<br/>
+Research interests: Sustainability, smart cities, transportation efficiency, data analytics
+<br/>
+Contact: Racheli at vt dot edu
