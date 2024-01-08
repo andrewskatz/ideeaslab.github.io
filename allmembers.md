@@ -67,22 +67,6 @@ group: navigation
 <br/>
 <br/>
 
-### Name: Lisa Schibelius
-<u>Background</u>: Lisa is currently pursuing her Ph.D. in Engineering Education at Virginia Tech after working in the aerospace industry for 4+ years with Airbus Americas  <br/> Engineering. She has experience in project management, aircraft upgrades, and process automation as an engineer in airworthiness & certification and retrofit of aircraft cabins in Upgrade Services. Her background includes a B.S. and M.S degree in mechanical engineering with a concentration in aerospace engineering from the University of South Alabama. She aspires to use her connections from industry to bridge the gap between engineering education and industry needs, while helping students in their own personal development to become creative problem-solvers and well-rounded, global engineers. She has teaching and mentoring experience from introductory robotics with elementary students, flight dynamics and mentoring for middle-schoolers, and graduate teaching assistantships for foundations of engineering for first-year students, Global STEM Practice: Leadership and Culture with the Rising Sophomore Abroad Program (RSAP) at VT, and thermal science with senior-level mechanical engineering students. <br/>
-<u>Research interests</u>: academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research  interests continue to evolve and expand). <br/>
-<u>Dissertation topic</u>: In progress <br/>
-<u>Contact information</u>: lisaschib at vt dot edu <br/>
-<u>Twitter</u>: @lisaschibelius
-[LinkedIn](https://www.linkedin.com/in/lisaschibelius/) <br/>
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=6CNW8WkAAAAJ) <br/>
-[ORCID](https://orcid.org/0000-0003-2678-7780) <br/>
-[Personal website](lisascribbles.github.io/) <br/>
-<u>CV</u>: See PDF attachment
-
-<br/>
-<br/>
-<br/>
-
 
 ### Name: Umair Shakir
 <u>Background</u>: Umair holds bachelor's and master's in civil engineering (University of Engineering Technology, Lahore, Pakistan, and will hold Ph.D. Engineering Education, Virginia Tech, USA [expected in Spring  2023]). He has ten years of professional experience ranging from professional engineer in the National Engineering Services Pakistan (5 years), to Dubai (1-years), and to assistant professor (The University of Lahore-3 years). He is also certified as a Project Management Professional (PMP). During his Ph.D., Umair has served as a graduate research assistant on NSF projects and as a teaching assistant in the Department of Engineering Education at VT. He has analytical skills in python and R. In addition to this, he is currently using the state of the art natural language processing (NLP) techniques to analyze large-scale qualitative data. Ultimately, Umair aspires to serve a leadership role as an international development sector agent, contributing to both educational physical infrastructure and evidenced-based national educational policy. 
